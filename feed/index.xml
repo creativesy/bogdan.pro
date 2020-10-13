@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bogdan.pro</title>
+	<atom:link href="/https://creativesy.github.io/bogdan.pro/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://creativesy.github.io/bogdan.pro</link>
+	<description>Un simplu sit WordPress</description>
+	<lastBuildDate>Tue, 13 Oct 2020 13:22:35 +0000</lastBuildDate>
+	<language>ro-RO</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<item>
+		<title>Salut lume!</title>
+		<link>/https://creativesy.github.io/bogdan.pro/2020/10/13/salut-lume/</link>
+					<comments>/https://creativesy.github.io/bogdan.pro/2020/10/13/salut-lume/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 13 Oct 2020 13:22:35 +0000</pubDate>
+				<category><![CDATA[Fără categorie]]></category>
+		<guid isPermaLink="false">/https://creativesy.github.io/bogdan.pro/?p=1</guid>
+
+					<description><![CDATA[Bine ai venit la WordPress. Acesta e primul tău articol. Editează-l sau șterge-l ș-apoi începe să scrii!]]></description>
+										<content:encoded><![CDATA[
+<p>Bine ai venit la WordPress. Acesta e primul tău articol. Editează-l sau șterge-l ș-apoi începe să scrii!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/https://creativesy.github.io/bogdan.pro/2020/10/13/salut-lume/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
